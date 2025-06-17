@@ -2,6 +2,9 @@
 
 THIS IS A JOKE!!! (IN BOTH SENSES)
 
+> [!NOTE]
+> These leaderboards are if aqua maps got nuked, need to do the re-weight of all scores. I will update it
+
 ## Top 50
 
 ```
